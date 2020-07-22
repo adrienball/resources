@@ -5,7 +5,7 @@ This repository contains a list of useful online resources, classified by topic.
 ## Summary
 
 - [Software](#software)
-    + [Architecture & Design](#architecture-design)
+    + [Architecture & Design](#architecture--design)
     + [Command line](#command-line)
     + [Git](#git)
 
