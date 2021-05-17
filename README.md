@@ -29,6 +29,7 @@ This repository contains a list of useful online resources, classified by topic.
 - [Paging with the Bucket Pattern](https://www.mongodb.com/blog/post/paging-with-the-bucket-pattern--part-1)
 
 ### Git
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [A practical guide to managing multiple github accounts](https://medium.com/the-andela-way/a-practical-guide-to-managing-multiple-github-accounts-8e7970c8fd46)
 
 ### Productivity
