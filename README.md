@@ -21,6 +21,7 @@ This repository contains a list of useful online resources, classified by topic.
 ## Software
 ### Architecture & Design
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google)
+- [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ### Command Line
 - [Unix toolbox](http://cb.vu/unixtoolbox.xhtml)
