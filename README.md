@@ -6,6 +6,7 @@ This repository contains a list of useful online resources, classified by topic.
 
 - [Computer Science](#computer-science)
     + [Hashing](#hashing)
+    + [Monads](#monads)
 - [Software](#software)
     + [Architecture & Design](#architecture--design)
     + [Command line](#command-line)
@@ -17,6 +18,10 @@ This repository contains a list of useful online resources, classified by topic.
 ### Hashing
 - [Bloom filters](https://freecontent.manning.com/all-about-bloom-filters)
 - [Consistent hashing](https://levelup.gitconnected.com/consistent-hashing-27636286a8a9)
+
+### Monads
+- [You Could Have Invented Monads!](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html)
+- [Translation from Haskell to JavaScript of ⬆️](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read)
 
 ## Software
 ### Architecture & Design
